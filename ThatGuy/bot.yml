@@ -51,7 +51,7 @@ Questions:
   ?ask: "If you have a question, please just ask it. Don't look for staff or topic experts. Don't ask to ask or ask if people are awake or available. Just ask the question to the channel straight out, and wait patiently for a reply."
   mc-central: this server is probably better, also spam adertising shows how bad a server you are, and won't get you players from this server as we have more things that don't cost money.
   jump off a: Do a backflip
-  ThatGuy slap me if: And if I say &Lno?
+  ThatGuy slap me if: And if I say no?
   '!slap me thatguy': '!Slippidy Slap, there goes %player%'
   'slap me thatguy': '/af slap %player%'
   'look up now': '/deathbyanvil %player%'
@@ -148,7 +148,9 @@ Questions:
   what does the fox say: The most commonly heard red fox vocalizations are a quick series of barks, and a scream-y variation of a howl.
   brace yourself: Winter is coming!
   
-  
+#STOP#STOP# END END #STOP#STOP#: ""
+#STOP#STOP# END END #STOP#STOP#: ""
+#STOP#STOP# END END #STOP#STOP#: ""
   
   banged my hand: Ouch! That must hurt
   thatguy please tell me: NO!!!
@@ -163,4 +165,4 @@ Questions:
   thatguy whats 9+10: The answer is nineteen.
   thatguy whats 9 + 10: The answer is nineteen.
   
-  
+  i need a weapon: '/give %player% 276 1 {display:{Name:"§b§l§nYour Weapon"}}'
