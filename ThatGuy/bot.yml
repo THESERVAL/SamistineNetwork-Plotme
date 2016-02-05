@@ -51,7 +51,7 @@ Questions:
   ?ask: "If you have a question, please just ask it. Don't look for staff or topic experts. Don't ask to ask or ask if people are awake or available. Just ask the question to the channel straight out, and wait patiently for a reply."
   mc-central: this server is probably better, also spam adertising shows how bad a server you are, and won't get you players from this server as we have more things that don't cost money.
   jump off a: Do a backflip
-  ThatGuy slap me if: And if I say no?
+  ThatGuy slap me if: And if I say &Lno?
   '!slap me thatguy': '!Slippidy Slap, there goes %player%'
   'slap me thatguy': '/af slap %player%'
   'look up now': '/deathbyanvil %player%'
@@ -113,15 +113,15 @@ Questions:
   joke#6: "what did the lawyer say to the other lawer? We are both lawyers"
   joke#7: "What did Batman say to Robin before they got in the car? Get in the car"
   joke#8: "what's brown and sticky? A stick."
-  joke#9: "What is the biggest lie in the entire universe? I have read and agree to the Terms of Service"
   joke#9: "Why did Suzie fall off the swing? She had no arms."
   joke#10: "What do you call a man with no arms and no legs water skiing? I dont know, but that sounds like a highly improbable circumstance."
   joke#11: "Why was the boy sad? Because he had a frog stapled to his face"
   joke#12: "What does an Eagle and a Mole have in common?"
-  joke#13: "That's the end, try again later to see if we added any new more, please don't spam me thou"
+  joke#13: "What did one car say to the other? Vroom."
+  joke#14: "What is the biggest lie in the entire universe? I have read and agree to the Terms of Service"
   "Is this the Krusty Krab": "No, this is Patrick."
   "Is this samistine.com": "No, this is Patrick."
-  "server bugs": "When a bug sees Chunk Norris, it flees screaming in terror"
+  "server bugs": "When a bug sees Chuck Norris, it flees screaming in terror"
   "thatguy I shoot you": "I am only trying to help :("
   "report someone": "If you want to send a report, please take a chatreport containing the players involved, plus any screenshots or evidence supporting your claim."
   "report him": "If you want to send a report, please take a chatreport containing the players involved, plus any screenshots or evidence supporting your claim."
@@ -133,7 +133,7 @@ Questions:
   how use worldedit: http://wiki.sk89q.com/wiki/WorldEdit/Reference
   how set warp: Use /pwarp set <name>
   how see warps: Use /pwarp assets
-  how make infinite dispenser: Place a sign on the dispenser and on the second line write [Infinite Sam]
+  how make infinite dispenser: Place a sign on the dispenser and write [infinite]
   thatguy are you a walrus: Arf
   what are those: Crocs. They are Crocs...
   thatguy i think i'm turning japanese: You really think so?
@@ -146,14 +146,21 @@ Questions:
   thatguy are you a bot: Uhh....
   lagg: Saying lag doesn't fix the problem, nor does it help anybody.
   what does the fox say: The most commonly heard red fox vocalizations are a quick series of barks, and a scream-y variation of a howl.
+  brace yourself: Winter is coming!
   
   
-  #STOP#STOP# END END #STOP#STOP#: ""
-  #STOP#STOP# END END #STOP#STOP#: ""
-  #STOP#STOP# END END #STOP#STOP#: ""
+  
   banged my hand: Ouch! That must hurt
   thatguy please tell me: NO!!!
   thatguy im begging you: nah~
   ThatGuy do you like: I can't answer that
   thatguy what is: Please try another Function
   thatguy code: "https://github.com/Samistine/SamistineNetwork-Plotme/blob/master/ThatGuy/bot.yml"
+  thstguy: Don't call me that!
+  gibberish: &krequested
+  what is spork: A spork is like a spoon, but with some fork in it.
+  what is foon: A foon is like a fork, but with some spoon in it.
+  thatguy whats 9+10: The answer is nineteen.
+  thatguy whats 9 + 10: The answer is nineteen.
+  
+  
